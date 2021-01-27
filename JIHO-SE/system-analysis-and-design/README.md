@@ -6,7 +6,7 @@
 
 ## 학습 결과물
 
-- [0202]()
+- [0202]() - google slide
 
 ## 학습 로드맵
 
@@ -16,7 +16,7 @@
 
 ### 1주차
 
-* 시스템 개발 과정의 이해
+* 시스템 개발 과정의 이해 [<img src="https://img.icons8.com/ios/250/000000/circled-up-right-2.png" width="14">](Part01/README.md)
     1. 소프트웨어 공학
     2. 시스템과 시스템 개발자
     3. SDLC 모형
