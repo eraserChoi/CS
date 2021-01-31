@@ -1,8 +1,10 @@
-![](https://images.velog.io/images/humblechoi/post/c6c71582-35ae-4cca-81e6-1438e67e05da/image.png)
+# 자료구조(Data Structure)
+
+##### 최지우 작성
 
 ###### 출처 「[윤성우의 열혈 자료구조](http://www.yes24.com/Product/Goods/6214396)」
 
-## 스터디 결과
+## 스터디 내용
 - [2021.02.02]()
 - [2021.02.09]]()
 - [2021.02.16]()
@@ -21,43 +23,45 @@
 - [2021.05.18]()
 
 ## 스터디 계획
+![](https://images.velog.io/images/humblechoi/post/c6c71582-35ae-4cca-81e6-1438e67e05da/image.png)
+
 [2021.02.02]()
-Chapter 01. 자료구조와 알고리즘의 이해
-1. 자료구조(Data Structure)에 대한 기본적인 이해
-2. 알고리즘의 성능분석 방법
+* Chapter 01. 자료구조와 알고리즘의 이해
+  1. 자료구조(Data Structure)에 대한 기본적인 이해
+  2. 알고리즘의 성능분석 방법
 
 [2021.02.09]()
-Chapter 02. 재 귀(Recursion)
-1. 함수의 재귀적 호출의 이해
-2. 재귀의 활용
-3. 하노이 타워: The Tower of Hanoi
+* Chapter 02. 재 귀(Recursion)
+  1. 함수의 재귀적 호출의 이해
+  2. 재귀의 활용
+  3. 하노이 타워: The Tower of Hanoi
 
 [2021.02.16]()
-Chapter 03. 연결 리스트(Linked List) 1
+* Chapter 03. 연결 리스트(Linked List) 1
 1. 추상 자료형: Abstract Data Type
 2. 배열을 이용한 리스트의 구현
 
 
 [2021.02.23]()
-Chapter 04. 연결 리스트(Linked List) 2
+* Chapter 04. 연결 리스트(Linked List) 2
 1. 연결 리스트의 개념적인 이해
 2. 단순 연결 리스트의 ADT와 구현
 3. 연결 리스트의 정렬 삽입의 구현
 
 [2021.03.02]()
-Chapter 05. 연결 리스트(Linked List) 3
+* Chapter 05. 연결 리스트(Linked List) 3
 1. 원형 연결 리스트(Circular Linked List)
 2. 양방향 연결 리스트
 
 [2021.03.09]()
-Chapter 06. 스택(Stack)
+* Chapter 06. 스택(Stack)
 1. 스택의 이해와 ADT 정의
 2. 스택의 배열 기반 구현
 3. 스택의 연결 리스트 기반 구현
 4. 계산기 프로그램 구현
 
 [2021.03.16]()
-Chapter 07. 큐(Queue)
+* Chapter 07. 큐(Queue)
 1. 큐의 이해와 ADT 정의
 2. 큐의 배열 기반 구현
 3. 큐의 연결 리스트 기반 구현
@@ -65,49 +69,51 @@ Chapter 07. 큐(Queue)
 5. 덱(Deque)의 이해와 구현
 
 [2021.03.23]()
-Chapter 08. 트리(Tree)
+* Chapter 08. 트리(Tree)
 1. 트리의 개요
 2. 이진 트리의 구현
 3. 이진 트리의 순회(Traversal)
 4. 수식 트리(Expression Tree)의 구현
 
 [2021.03.30]()
-Chapter 09. 우선순위 큐(Priority Queue)와 힙(Heap)
+* Chapter 09. 우선순위 큐(Priority Queue)와 힙(Heap)
 1. 우선순위 큐의 이해
 2. 힙의 구현과 우선순위 큐의 완성
 
 [2021.04.06]()
-Chapter 10. 정렬(Sorting)
+* Chapter 10. 정렬(Sorting)
 1. 단순한 정렬 알고리즘
 2. 복잡하지만 효율적인 정렬 알고리즘
 
 [2021.04.13]()
-Chapter 11. 탐색(Search) 1
+* Chapter 11. 탐색(Search) 1
 1. 탐색의 이해와 보간 탐색
 2. 이진 탐색 트리
 
 [2021.04.20]()
-Chapter 12. 탐색(Search) 2
+* Chapter 12. 탐색(Search) 2
 1. 균형 잡힌 이진 탐색 트리: AVL 트리의 이해
 2. 균형 잡힌 이진 탐색 트리: AVL 트리의 구현
 
 [2021.04.27]()
-Chapter 13. 테이블(Table)과 해쉬(Hash)
+* Chapter 13. 테이블(Table)과 해쉬(Hash)
 1. 빠른 탐색을 보이는 해쉬 테이블
 2. 충돌(Collision) 문제의 해결책
 
 [2021.05.04]()
-Chapter 14. 그래프(Graph)
+* Chapter 14. 그래프(Graph)
 1. 그래프의 이해와 종류
 2. 인접 리스트 기반의 그래프 구현
 3. 그래프의 탐색
 4. 최소 비용 신장 트리
 
 [2021.05.11]()
-1. 자주 나오는 CS(자료구조)관련 질문들 정리
+* 면접 문제
+1. 자주 나오는 CS(자료구조)관련 질문들 총정리1
 
 [2021.05.18]()
-2. 자주 나오는 CS(자료구조)관련 질문들 정리
+* 면접 문제
+1. 자주 나오는 CS(자료구조)관련 질문들 총정리2
 
 만약 있다면, 각 주제마다 잘 나오는 면접질문들을 추가할 예정!
 
