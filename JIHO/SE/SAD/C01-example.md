@@ -1,12 +1,10 @@
-###### [시스템 분석/설계 개요](README.md)
+###### [*CS*](../../README.md) | [*SE*](../README.md) | [*SAD*](README.md) | [*C01*](C01-00.md)
 
-# Chapter 01 시스템 개발 과정의 이해
+# 연습문제
 
-## 연습문제
+## 01
 
-### 01
-
-#### '소프트웨어 위기'의 이해를 돕기 위한 문헌을 찾아보시오.
+### '소프트웨어 위기'의 이해를 돕기 위한 문헌을 찾아보시오.
 
 * [위키백과](https://ko.wikipedia.org/wiki/%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4_%EC%9C%84%EA%B8%B0)
     * [NATO Software Engineering Conference 1968](http://homepages.cs.ncl.ac.uk/brian.randell/NATO/NATOReports/index.html)
@@ -16,9 +14,9 @@
 * 권용래. (1999). 소프트웨어 생산성의 명암. 정보과학회지, 17(12), 22-25.
 * 윤창구. (1988). 논단 : 소프트웨어 위기. Chemical Industry and Technology, 6(1), 2-3.
 
-### 02
+## 02
 
-#### '소프트웨어 공학'의 개척자들에 대한 문헌을 찾아보시오.
+### '소프트웨어 공학'의 개척자들에 대한 문헌을 찾아보시오.
 
 * [위키백과](https://ko.wikipedia.org/wiki/%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4_%EA%B3%B5%ED%95%99)
     * Peter, Naur; Brian Randell. [“Software engineering: Report of a conference sponsored by the NATO Science Committee”](http://homepages.cs.ncl.ac.uk/brian.randell/NATO/nato1968.PDF)
@@ -30,9 +28,9 @@
     * [Martin Fowler](https://ko.wikipedia.org/wiki/%EB%A7%88%ED%8B%B4_%ED%8C%8C%EC%9A%B8%EB%9F%AC)
     * [Tony Hoare](https://ko.wikipedia.org/wiki/%ED%86%A0%EB%8B%88_%ED%98%B8%EC%96%B4)
 
-### 03
+## 03
 
-#### '소프트웨어 공학' 분야의 학습에 도움을 받을 수 있는 관련 사이트를 검색해 보시오.
+### '소프트웨어 공학' 분야의 학습에 도움을 받을 수 있는 관련 사이트를 검색해 보시오.
 
 * [위키백과](https://ko.wikipedia.org/wiki/%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4_%EA%B3%B5%ED%95%99)
     * [Requirements Analysis](https://ko.wikipedia.org/wiki/%EC%9A%94%EA%B5%AC%EC%82%AC%ED%95%AD_%EB%B6%84%EC%84%9D)
@@ -45,9 +43,9 @@
 * [KOCW](http://www.kocw.net/home/search/majorCourses.do#subject/030603)
 * https://github.com/minnsane/TeachYourselfCS-KR
 
-### 04
+## 04
 
-#### '소프트웨어 개발 프로세스 모형'에 대해 'SDLC 모형'과 '프로토타입 모형' 외에 다른 모형은 어떤 것들이 있는지 조사하여 요약해 보시오.
+### '소프트웨어 개발 프로세스 모형'에 대해 'SDLC 모형'과 '프로토타입 모형' 외에 다른 모형은 어떤 것들이 있는지 조사하여 요약해 보시오.
 
 * [Agile software development](https://ko.wikipedia.org/wiki/%EC%95%A0%EC%9E%90%EC%9D%BC_%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4_%EA%B0%9C%EB%B0%9C)
     * code-oriented
@@ -62,9 +60,9 @@
 * [TDD; Test-driven development](https://ko.wikipedia.org/wiki/%ED%85%8C%EC%8A%A4%ED%8A%B8_%EC%A3%BC%EB%8F%84_%EA%B0%9C%EB%B0%9C)
 
 
-### 05
+## 05
 
-#### 이 장에서 다룬 용어 및 약어를 정리하시오.
+### 이 장에서 다룬 용어 및 약어를 정리하시오.
 
 * **소프트웨어 위기**  
     소프트웨어 공학이 탄생하게 된 원인. 소프트웨어가 하드웨어 개발 속도를 따라가지 못함. 소프트웨어가 더이상 사용자들의 요구를 충족시킬 수가 없음
@@ -93,9 +91,9 @@
 ---
 
 <p style="text-align:center">
-    <a href="C01-summary.md">prev</a>
+    <a href="C01-05.md">prev</a>
     &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp;
     연습문제
     &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp;
-    <a href="C02-01.md">next</a>
+    <a href="C02-00.md">next</a>
 </p>
