@@ -5,7 +5,7 @@
 ###### 출처 「[윤성우의 열혈 자료구조](http://www.yes24.com/Product/Goods/6214396)」
 
 ## 스터디 내용
-- [2021.02.02](https://github.com/ERrorASER/CS/blob/jw/jw/DS/%5B2021%2002%2002%5D.md)
+- [2021.02.02 자료구조와 알고리즘](https://github.com/ERrorASER/CS/blob/jw/jw/DS/%5B2021%2002%2002%5D.md)
 - [2021.02.09]()
 - [2021.02.16]()
 - [2021.02.23]()
