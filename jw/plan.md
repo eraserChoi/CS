@@ -5,8 +5,8 @@
 ###### 출처 「[윤성우의 열혈 자료구조](http://www.yes24.com/Product/Goods/6214396)」
 
 ## 스터디 내용
-- [2021.02.02]()
-- [2021.02.09]]()
+- [2021.02.02](https://github.com/ERrorASER/CS/blob/jw/jw/DS/%5B2021%2002%2002%5D.md)
+- [2021.02.09]()
 - [2021.02.16]()
 - [2021.02.23]()
 - [2021.03.02]()
@@ -25,10 +25,12 @@
 ## 스터디 계획
 ![](https://images.velog.io/images/humblechoi/post/c6c71582-35ae-4cca-81e6-1438e67e05da/image.png)
 
-[2021.02.02]()
+[2021.02.02](https://github.com/ERrorASER/CS/blob/jw/jw/DS/%5B2021%2002%2002%5D.md)
 * Chapter 01. 자료구조와 알고리즘의 이해
   1. 자료구조(Data Structure)에 대한 기본적인 이해
   2. 알고리즘의 성능분석 방법
+  3. Java Collection
+  4. 자료구조 별 시간복잡도
 
 [2021.02.09]()
 * Chapter 02. 재 귀(Recursion)
