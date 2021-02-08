@@ -99,3 +99,25 @@
   10002 | 황영은    |   서울특별시
 
   이렇게 되면 고객 설정 변경이 주문 엔터티에 영향을 미치지는 않는다.
+
+  ## 반정규화
+
+   > 중복의 원리를 이용하여 데이터 조회시 성능을 향상시킨다 
+
+   <image src="https://mblogthumb-phinf.pstatic.net/20160531_55/kmjin0111_1464688966571bG0Vx_JPEG/4.JPG?type=w2"></image><br/>
+   출처 : https://m.blog.naver.com/PostView.nhn?blogId=kmjin0111&logNo=220724253910&targetKeyword=&targetRecommendationCode=1<br/>
+
+
+   ## Null 속성의 이해
+
+    > Null 값은 '공백이나 숫자 0'과는 전혀 다른 의미다. '아직 정의되지 않은 미지 값' 또는 '현재 데이터를 입력하지 못한 경우'
+
+   COL1 | COL2    |   COL3         
+ ----------| -------- | ---------
+  80,000 | 80,000    |   80,000
+   Null   | 0    |   15,000      
+  Null | 80,000    |   95,000
+
+  Null값의 연산은 무조건 Null이고, 가능한 연산은 IS NULL, IS NOT NULL밖에 없다.<br/>
+  집계함수(SUM(), AVG(), 등)은 Null을 제외하고 집계한다.
+  
