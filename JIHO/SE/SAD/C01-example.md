@@ -90,7 +90,7 @@
 
 ---
 
-<p style="text-align:center">
+<p align="center">
     <a href="C01-05.md">prev</a>
     &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp;
     연습문제
