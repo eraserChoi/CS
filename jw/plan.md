@@ -6,7 +6,7 @@
 
 ## 스터디 내용
 - [2021.02.02 자료구조와 알고리즘](https://github.com/ERrorASER/CS/blob/jw/jw/DS/%5B2021%2002%2002%5D.md)
-- [2021.02.09]()
+- [2021.02.09 리스트](https://github.com/ERrorASER/CS/blob/jw/jw/DS/%5B%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%5D%20List.md)
 - [2021.02.16]()
 - [2021.02.23]()
 - [2021.03.02]()
@@ -32,11 +32,12 @@
   3. Java Collection
   4. 자료구조 별 시간복잡도
 
-[2021.02.09]()
-* Chapter 02. 재 귀(Recursion)
-  1. 함수의 재귀적 호출의 이해
-  2. 재귀의 활용
-  3. 하노이 타워: The Tower of Hanoi
+[2021.02.09](https://github.com/ERrorASER/CS/blob/jw/jw/DS/%5B%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%5D%20List.md)
+* Chapter 02. 리스트(List)
+  1. List 설명과 특징
+  2. Array vs ArrayList
+  3. ArrayList vs LinkedList
+  4. Array vs LinkedList
 
 [2021.02.16]()
 * Chapter 03. 연결 리스트(Linked List) 1
