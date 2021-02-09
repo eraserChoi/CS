@@ -1,3 +1,6 @@
+##### 최지우 작성
+<img width="437" alt="스크린샷 2021-02-09 오후 8 08 16" src="https://user-images.githubusercontent.com/29567741/107355241-8d59fb80-6b12-11eb-9601-a301e72adfb7.png">
+
 ## 리스트
 - 순서를 가진 데이터의 집합을 가리키는 추상자료형
 - 동일한 데이터를 가지고 있어도 상관 없다. (원소 중복을 허용함)
@@ -58,10 +61,11 @@
 
 ## 질문
 ### array와 arrayList의 차이점은?
-
+###### 「[답변](https://github.com/ERrorASER/CS/blob/jw/jw/DS/%5B%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%5D%20Array%20vs%20ArrayList.md)」
 ### ArrayList와 LinkedList의 차이가 무엇인가요?
-
+###### 「[답변](https://github.com/ERrorASER/CS/blob/jw/jw/DS/%5B%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%5D%20ArrayList%20vs%20LinkedList.md)」
 ### Array와 LinkedList의 차이가 무엇인가요?(N사 전화면접)
+###### 「[답변](https://github.com/ERrorASER/CS/blob/jw/jw/DS/%5B%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%5D%20Array%20vs%20LinkedList.md)」
 
 
 
