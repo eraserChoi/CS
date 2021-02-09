@@ -9,6 +9,8 @@
   - **전송률 (Throughput)**
   : 단위 시간 동안에 전달될 수 있는 트래픽의 총량   
   
+<br>
+
   ### 지연시간 (Delay)
   - **Processing delay** : 패킷이 도달했을 때 라우터에서 처리하는 데 필요한 딜레이
   - **Queueing delay** : 이전에 도착한 패킷이 있었다면 큐에 들어가서 대기 해야함
@@ -17,8 +19,7 @@
   
 **ㄴ Processing delay는 하드웨어의 발전으로 무시할 수 있을 정도로 작아짐.**   
 **ㄴ Propagation delay는 데이터의 첫번째 비트에만 존재하고 그 다음비트는 연달아 이어져서 전송되기 때문에 첫번째 비트 제외하고는 영향을 미치지 않는다고 봐도 무방함.**
-
-<br>
+  
 
 #### Transmission delay
  - 패킷의 Length(L), 링크의 bandwidth(=링크의 capacity, R)에 따라서 계산이 됨. 
@@ -37,6 +38,8 @@
  - 주로 중간 라우터에서 패킷 손실이 일어남.  
  - 라우터는 버퍼가 저장할 수 있는 공간이 정해져 있는데, 이를 넘어서는 데이터가 한꺼번에 도착하면 그 이상의 패킷은 잃어버림.  
  
+<br>
+
  ### 전송률 (Throughput)
  - 순간 Throughput과 평균 Throughput으로 나뉨.
  - 순간 Throughput은 가장 피크일 때, 평균 Throughput은 전체 시간을 보고 평균을 내어 계산
@@ -67,6 +70,8 @@ Open은 개방형을 의미함. 즉 개방해서 모두가 연결 할 수 있는
 - **세션 계층(Session Layer)** : 트랜스포트 레이어, 연결을 관리해주는 역할을 한다고 생각하면 됨.
   
     
+<br>
+
 #### 계층을 나눈 이유  
 > 각 서비스가 모듈화 되어 있기 때문에 각 기술자들은 자신의 모듈만을 잘 개발하고 관리하고 수정하면 됨.  
 >> → 개발속도도 빠르고 안정화할 수 있으며 수정도 효율적으로 할 수 있음.  
@@ -78,6 +83,8 @@ ex) 과거 네비게이션은 그저 최단경로만 알려주었는데 이 것�
 
 #### Encapsulation 
 https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Fcfile%2Ftistory%2F993FCD4D5B7A45AB07https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Fcfile%2Ftistory%2F993FCD4D5B7A45AB07
+
+<br>
 
   
 ## 2-3) 네트워크 Security  
@@ -99,6 +106,8 @@ https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.d
 -	DDoS (Distributed Denial of Service) : 분산된(Distributed) DoS. 여러 대의 컴퓨터들이 동시에 서버를 공격하도록 함. 기존 DoS보다 막기 어렵다.
 -	Sybil attack : 주소를 바꾸면서 데이터를 보냄. C를 A가 공격하면서 B가 보낸 것처럼 보내는 주소를 B로 해서 보냄.  
 -	Fake WiFi access point (evil twin attack) : 가짜 와이파이 액세스 포인트를 만들어서 개방형 wifi를 찾는 사람들이 이용하면서 개인정보를 attacker에게 넘겨주도록 하는 공격 방식. 합법적인 wifi액세스 포인트의 나쁜(evil) 쌍둥이(twin)라서 evil twin attack라고도 부른다.  
+
+<br>
 
 ## 2-4) 인터넷의 역사
 - 70s~80s – 인터넷이 설계가 되었고, 이더넷이 만들어져서 시험이 되었고, 알파넷에 접속한 노드의 개수도 늘어남.  
