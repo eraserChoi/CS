@@ -1,3 +1,5 @@
+##### 최지우 작성
+
 <img width="437" alt="스크린샷 2021-02-09 오후 8 08 16" src="https://user-images.githubusercontent.com/29567741/107355241-8d59fb80-6b12-11eb-9601-a301e72adfb7.png">
 
 ## array와 arrayList의 공통점은?
