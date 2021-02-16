@@ -16,7 +16,7 @@
 
 ### *3 Week*
 
-3. 구조적 분석 방법론
+3. **구조적 분석 방법론** [<img src="https://img.icons8.com/ios/250/000000/circled-up-right-2.png" width="17">](C03-00.md)
 
 ### *4 Week*
 
