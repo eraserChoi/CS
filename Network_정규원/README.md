@@ -1,5 +1,5 @@
 기본적으로 K-MOOC 사이트에 있는
-컴퓨터 네트워킹강좌(http://www.kmooc.kr/courses/course-v1:PNUk+CN_C01+2019_KM_011/course/)를 참조하였습니다.  
+컴퓨터 네트워킹강좌(http://www.kmooc.kr/courses/course-v1:PNUk+CN_C01+2019_KM_011/course/) 를 참조하였습니다.  
 부가적으로는 정보처리기사 필기책 + 학부시절 컴퓨터네트워크 강의노트 등을 참조하였습니다.  
 
 ### 총 13주 과정으로 되어있음. 16주를 계획으로 하고 있는 만큼 적당하다고 생각됨.  
