@@ -7,7 +7,7 @@
 ## 스터디 내용
 - [2021.02.02 자료구조와 알고리즘](https://github.com/ERrorASER/CS/blob/jw/jw/DS/%5B2021%2002%2002%5D.md)
 - [2021.02.09 리스트](https://github.com/ERrorASER/CS/blob/jw/jw/DS/%5B%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%5D%20List.md)
-- [2021.02.16]()
+- [2021.02.16 스택과 큐](https://github.com/ERrorASER/CS/blob/jw/jw/DS/%5B%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%5D%20Stack%EA%B3%BC%20Queue.md)
 - [2021.02.23]()
 - [2021.03.02]()
 - [2021.03.09]()
@@ -39,10 +39,13 @@
   3. ArrayList vs LinkedList
   4. Array vs LinkedList
 
-[2021.02.16]()
-* Chapter 03. 연결 리스트(Linked List) 1
-  1. 추상 자료형: Abstract Data Type
-  2. 배열을 이용한 리스트의 구현
+[2021.02.16](https://github.com/ERrorASER/CS/blob/jw/jw/DS/%5B%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%5D%20Stack%EA%B3%BC%20Queue.md)
+* Chapter 03. 스택과 큐
+  1. Stack
+  2. Queue
+  3. Circular Queue
+  4. Priority Queue(Tree 후 자세한 설명 예정)
+  5. Deque
 
 
 [2021.02.23]()
