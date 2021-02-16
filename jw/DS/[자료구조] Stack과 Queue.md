@@ -1,5 +1,6 @@
 ## Stack
-![스크린샷 2021-02-16 오후 8 37 33](https://user-images.githubusercontent.com/29567741/108058051-cc4dfb00-7096-11eb-9552-ddb9b9683fa9.png)#### 특징
+![스크린샷 2021-02-16 오후 8 37 33](https://user-images.githubusercontent.com/29567741/108058051-cc4dfb00-7096-11eb-9552-ddb9b9683fa9.png)
+#### 특징
 - 물건을 쌓아 올리듯 자료를 쌓아 올린 형태의 자료구조다.
 - 선형 구조
 - 후입선출구조(LIFO : Last-In-First-Out) : 마지막에 삽입한 자료를 가장 먼저 꺼낸다.
@@ -22,7 +23,8 @@ Stack st = new Stack();
 ---
 
 ## Queue(선형 큐)
-![스크린샷 2021-02-16 오후 8 37 41](https://user-images.githubusercontent.com/29567741/108058061-d1ab4580-7096-11eb-815c-ce9cbe245a26.png)#### 설명
+![스크린샷 2021-02-16 오후 8 37 41](https://user-images.githubusercontent.com/29567741/108058061-d1ab4580-7096-11eb-815c-ce9cbe245a26.png)
+#### 설명
 - 큐의 뒤(rear)에서만 삽입 하고, 큐의 앞(front)에서는 삭제만 이루어진다.
 선형구조
 선입선출구조(FIFO : First-In-First-Out) : 가장 먼저 삽입된 원소가 가장 먼저 삭제된다.
@@ -32,6 +34,7 @@ Queue q = new LinkedList();
 ```
 #### 단점
 - 선형 큐에서 삽입 및 삭제를 반복하다 보면, rear가 맨 마지막 인덱스를 가리키고, 앞에는 비어 있을 수 있지만 이를 꽉 찼다고 인식한다. 데이터를 삭제할 때마다 한칸 앞으로 이동시키는 것이 아니라 인덱스 단위로 큐의 연산을 진행했기 때문에 이러한 문제점이 생겨난다. 이러한 단점을 보완하기 위해 Circular Queue(원형 큐)가 생겨났다.
+
 ![스크린샷 2021-02-16 오후 8 40 50](https://user-images.githubusercontent.com/29567741/108058349-42eaf880-7097-11eb-86f2-f1672d60b888.png)
 
 #### 주요 연산
@@ -94,7 +97,8 @@ pq.offer(5);
 
 
 ### Deque
-![스크린샷 2021-02-16 오후 8 37 53](https://user-images.githubusercontent.com/29567741/108058076-d8d25380-7096-11eb-8f3c-b06efa825e66.png)#### 설명
+![스크린샷 2021-02-16 오후 8 37 53](https://user-images.githubusercontent.com/29567741/108058076-d8d25380-7096-11eb-8f3c-b06efa825e66.png)
+#### 설명
 -  자료의 추가와 삭제를 양쪽 끝에서 가능하게 하는 자료구조, 큐와 스택을 합친 형태로 생각할 수 있다.
 - 연속적인 메모리를 기반으로 하는 '시퀀스 컨테이너'이다. 따라서, 임의 접근 반복자 제공.
 - [Deque API](https://docs.oracle.com/javase/8/docs/api/java/util/Deque.html)
@@ -109,8 +113,12 @@ pq.offer(5);
 <br>
 
 
-#### 출처
-- 
+
+
+<br>
+<br>
+<details>
+<summary>출처</summary>
 https://www.geeksforgeeks.org/circular-queue-set-1-introduction-array-implementation/
 https://velog.io/@choiiis/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0-%EC%8A%A4%ED%83%9DStack%EA%B3%BC-%ED%81%90Queue
 https://chanhuiseok.github.io/posts/algo-26/
@@ -120,3 +128,4 @@ https://velog.io/@holicme7/%EC%9A%B0%EC%84%A0%EC%88%9C%EC%9C%84-%ED%81%90Prioiri
 https://velog.io/@holicme7/%EC%9A%B0%EC%84%A0%EC%88%9C%EC%9C%84-%ED%81%90Prioirity-Queue-mbk48cz764
 https://moonong.tistory.com/34
 http://itnovice1.blogspot.com/2019/01/blog-post.html
+</details>
