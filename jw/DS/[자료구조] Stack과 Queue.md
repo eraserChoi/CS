@@ -1,3 +1,7 @@
+##### 최지우 작성
+<img width="437" alt="스크린샷 2021-02-09 오후 8 08 16" src="https://user-images.githubusercontent.com/29567741/107355241-8d59fb80-6b12-11eb-9601-a301e72adfb7.png">
+
+
 ## Stack
 ![스크린샷 2021-02-16 오후 8 37 33](https://user-images.githubusercontent.com/29567741/108058051-cc4dfb00-7096-11eb-9552-ddb9b9683fa9.png)
 #### 특징
@@ -46,6 +50,7 @@ Queue q = new LinkedList();
 - BFS
 - 작업 스케쥴링
 
+---
 
 ### Circular Queue
 ![스크린샷 2021-02-16 오후 8 41 26](https://user-images.githubusercontent.com/29567741/108058409-58602280-7097-11eb-9164-e2b4a8f49542.png)
@@ -65,6 +70,7 @@ Queue q = new LinkedList();
 - - 큐를 한칸 빼주기 때문에 위의 그림은 가득찬 상태로 본다.
 - empty : rear == front
 
+---
 
 ### Priority Queue
 #### 설명
@@ -95,6 +101,7 @@ pq.offer(5);
 
 그래서 일반적으로 힙을 이용해 구현한다.
 
+---
 
 ### Deque
 ![스크린샷 2021-02-16 오후 8 37 53](https://user-images.githubusercontent.com/29567741/108058076-d8d25380-7096-11eb-8f3c-b06efa825e66.png)
