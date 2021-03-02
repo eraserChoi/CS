@@ -34,18 +34,23 @@
 #### 이진트리(Binary Tree)
 <img width="304" alt="스크린샷 2021-03-02 오후 8 38 04" src="https://user-images.githubusercontent.com/29567741/109643165-32f30e80-7b97-11eb-9a23-92872a173f78.png">
 모든 노드들이 2개의 서브트리를 갖는 특별한 형태의 트리이다. 각 노드가 자식노드를 최대한 2개까지만 가질 수 있다.
+
 #### 이진 탐색 트리(Binary Search Tree)
 <img width="317" alt="스크린샷 2021-03-02 오후 8 38 15" src="https://user-images.githubusercontent.com/29567741/109643176-37b7c280-7b97-11eb-87b1-ab11b7a326d9.png">
 모든 부모 노드들의 left child는 부모 노드의 데이터보다 값이 작아야 하고, right child는 부모 노드의 값보다 커야한다. 여기서 중위순회(Inorder Travel)을 적용하면 오름차순 정렬이 된다.
+
 #### 정 이진 트리(Full Binary Tree)
 <img width="332" alt="스크린샷 2021-03-02 오후 8 38 21" src="https://user-images.githubusercontent.com/29567741/109643197-3be3e000-7b97-11eb-8f9d-bb09dcbe9384.png">
 자식 노드가 아예 없거나, 최대 둘뿐인 tree. 자식을 하나만 가진 노드가 없어야 한다. 포화 이진 트리의 하위 종류이다.
+
 #### 포화 이진 트리(Perfect Binary Tree)
 <img width="354" alt="스크린샷 2021-03-02 오후 8 38 29" src="https://user-images.githubusercontent.com/29567741/109643211-40a89400-7b97-11eb-8434-1386abcd76f7.png">
 모든 노드가 0개 혹은 2개의 자식노드를 가지며 모든 리프노드가 똑같은 레벨에 있다. 완벽한 피라미드 모양.
+
 #### 완전 이진 트리(Complete Binary Tree)
 <img width="648" alt="스크린샷 2021-03-02 오후 8 38 38" src="https://user-images.githubusercontent.com/29567741/109643236-456d4800-7b97-11eb-9a49-4ccfb18651fc.png">
 마지막 레빌을 제외한 모든 레벨에 노드가 채워져 있으며 , 마지막 레벨은 왼쪽부터 채워져 있어야한다. 마지막 레벨은 꽉 차있을 필요는 없다.
+
 #### 편향 이진 트리(Skewed Binary Tree)
 <img width="231" alt="스크린샷 2021-03-02 오후 8 38 45" src="https://user-images.githubusercontent.com/29567741/109643245-49996580-7b97-11eb-81ae-cfd1e872bd46.png">
 말 그대로 노드들이 전부 한 방향으로 편향된 트리이다.
