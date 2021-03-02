@@ -27,11 +27,14 @@ SELECT [ALL/DISTINCT] 출력 대상 칼럼명, 출력 대상 칼럼명, ...
 SELECT 출력 대상 칼럼명1  AS 이름, 출력 대상 칼럼명2 AS 성, 출력 대상 칼럼명3 As 생일, ...
     FROM 출력 대상 칼럼들이 있는 테이블명;
 ```
+
 <p align="center">
-    <img style="width:200px;" src="https://github.com/ERrorASER/CS/blob/yooase12-patch-1/PKH/0302/aliasNo.jpg?raw=true">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img style="width:200px;" src="https://github.com/ERrorASER/CS/blob/yooase12-patch-1/PKH/0302/aliasYes.jpg?raw=true"><br/>
-    기존 테이블 결과&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    ALIAS적용 결과
+    <img style="width:400px;" src="https://github.com/ERrorASER/CS/blob/yooase12-patch-1/PKH/0302/aliasNo.jpg?raw=true"><br/>
+    기존 테이블 결과
+</p>
+<p align="center">
+    <img style="width:400px;" src="https://github.com/ERrorASER/CS/blob/yooase12-patch-1/PKH/0302/aliasYes.jpg?raw=true"><br/>
+    ALIAS 적용 결과
 </p>
 
 ### 산술 연산자와 합성 연산자
@@ -52,8 +55,8 @@ SELECT 출력 대상 칼럼명1 || '연결할 말(옵션)' || 대상 칼럼명2 
     FROM 출력 대상 칼럼들이 있는 테이블명;
 ```
 <p align="center">
-    <img style="width:200px;" src="https://github.com/ERrorASER/CS/blob/yooase12-patch-1/PKH/0302/arith.jpg?raw=true">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img style="width:200px;" src="https://github.com/ERrorASER/CS/blob/yooase12-patch-1/PKH/0302/concate.jpg?raw=true"><br/>
+    <img style="width:100px;" src="https://github.com/ERrorASER/CS/blob/yooase12-patch-1/PKH/0302/arith.jpg?raw=true">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img style="width:100px;" src="https://github.com/ERrorASER/CS/blob/yooase12-patch-1/PKH/0302/concate.jpg?raw=true"><br/>
     산술 연산자&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     합셩 연산자
 </p>
