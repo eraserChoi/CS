@@ -8,8 +8,8 @@
 - [2021.02.02 자료구조와 알고리즘](https://github.com/ERrorASER/CS/blob/jw/jw/DS/%5B2021%2002%2002%5D.md)
 - [2021.02.09 리스트](https://github.com/ERrorASER/CS/blob/jw/jw/DS/%5B%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%5D%20List.md)
 - [2021.02.16 스택과 큐](https://github.com/ERrorASER/CS/blob/jw/jw/DS/%5B%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%5D%20Stack%EA%B3%BC%20Queue.md)
-- [2021.02.23]()
-- [2021.03.02]()
+- [2021.02.23 IM 대비 알고리즘 문제로 대체]()
+- [2021.03.02 Tree와 Heap](https://github.com/ERrorASER/CS/blob/jw/jw/DS/%5B%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%5D%20Tree%EC%99%80%20Heap.md)
 - [2021.03.09]()
 - [2021.03.16]()
 - [2021.03.23]()
@@ -49,15 +49,14 @@
 
 
 [2021.02.23]()
-* Chapter 04. 연결 리스트(Linked List) 2
-  1. 연결 리스트의 개념적인 이해
-  2. 단순 연결 리스트의 ADT와 구현
-  3. 연결 리스트의 정렬 삽입의 구현
+* IM 대비 알고리즘 문제로 대체
+  1. (필수) N-Queen : https://www.acmicpc.net/problem/9663
+  2. (옵션) 비숍 : https://www.acmicpc.net/problem/1799
 
-[2021.03.02]()
-* Chapter 05. 연결 리스트(Linked List) 3
-  1. 원형 연결 리스트(Circular Linked List)
-  2. 양방향 연결 리스트
+[2021.03.02](https://github.com/ERrorASER/CS/blob/jw/jw/DS/%5B%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%5D%20Tree%EC%99%80%20Heap.md)
+* Chapter 05. Tree와 Heap
+  1. Tree
+  2. Heap
 
 [2021.03.09]()
 * Chapter 06. 스택(Stack)
