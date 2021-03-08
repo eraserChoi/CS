@@ -98,7 +98,7 @@ response 와 request가 순서대로 날아가고 순서대로 날아옴. 앞선
 
 ### REST (REpresentational State Transfer)
 > 서버는 클라이언트에 대한 상태를 저장하지 않아도 HTTP request message에 다 담겨있다. 이런 구조를 따르는 서비스를 RESTful이라고 한다.
-  
+   
   #### REST 구조의 유의사항
 > -	클라이언트 서버구조 : 실제 데이터와 유저에 대한 정보가 분리되어 있어야 함.
 > -	Statelessness : 클라이언트의 상태(state)를 서버에 저장하지 않는(less) 것(ness)
