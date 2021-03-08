@@ -25,7 +25,7 @@
 >   >좀 간단하게 전달하는 것이 UDP 라고 보면 됨.
 >   > -	Connectionless service
 >   > -	에러 수정, 데이터 흐름 제어 같은 기능이 없음. 대신 TCP보다 빠른 속도를 제공 할 수 있음.
-
+ 
 <br>
 
 ## 4 - 2)	Multiplexing and Socket
