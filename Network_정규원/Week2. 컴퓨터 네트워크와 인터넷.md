@@ -32,7 +32,7 @@
  https://www.cs.umd.edu/~shankar/417-F01/Slides/chapter1a-aus/img027.gif  
  
 <br>
-
+ 
  
  ### 손실률 (Packet loss)
  - 주로 중간 라우터에서 패킷 손실이 일어남.  
