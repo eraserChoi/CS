@@ -59,7 +59,10 @@
 
     - 분할할 수 없는 최소의 단위이다.
 
-[##_Image|kage@Aoh4T/btq0SHr0Jzi/JNuLozHZfvihwIH7pucgY1/img.png|alignCenter|data-origin-width="0" data-origin-height="0" data-ke-mobilestyle="widthContent"|||_##]
+<p align="center">
+    <img style="width:400px;" src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FAoh4T%2Fbtq0SHr0Jzi%2FJNuLozHZfvihwIH7pucgY1%2Fimg.png"><br/>
+    트랜잭션의 특성
+</p>
 
 ###   2. COMMIT
 
