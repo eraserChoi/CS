@@ -17,7 +17,9 @@
 > - SDN : 라우팅과 포워딩이 분리되어 있음.
 >   > 각각의 라우터들은 포워딩 기능만 하고 길을 설정해주는 것은 라우팅 알고리즘만을 따로 떼어낸 중앙 집중적인 시스템이 있음
 >   > 
-
+  
+<br>
+  
 ## 6 - 2 ) Inside of Router
 > 크게 Input port, fabric, output port로 나누어짐
 > 
@@ -58,7 +60,9 @@
 > > - RR(Round-Robin) : 우선순위가 높은 버퍼, 그렇지 않은 버퍼를 번갈아가며 처리  
 > > - WFQ(Weighted Fair Queuing) : 가중치가 있는 RR방식  
 
-
+  
+<br>
+  
 ## 6 - 3)	Internet Protocol Overview  
 > 라우팅 프로토콜, 라우팅 알고리즘들이 일을 하기 위해서는 결국 IP 프로토콜이 제공하는 정보가 필요함.  
 > - IP가 발명된 계기 : 전세계 곳곳에 퍼져있는 미군과 통신하려고 하는데, 각 국의 통신 방식이 다르니까 이걸 하나로 아우를 수 있는 하나의 가상 네트워크를 만들자!  
@@ -83,7 +87,9 @@
 - Fragmentation offset : 잘게 나눈 데이터그램의 순서를 결정함.   
 - Flag : 3bit를 차지하고 첫번째는 사용하지 않고 두번째는 자르지 말라는 표시 DF (Don’t Fragment), 세번째는 MF(More Fragment) 로써 이 뒤에 fragment가 더 있는지 없는지를 나타냄.  
 
-
+  
+<br>
+  
 ## 6 - 4)	IP Addressing
 > - IP 주소는 어떤 형식으로 만들어져 있으며 어떤 규칙에 의해 부여되는가? 
 > - IP 주소는 계층화 되어있다.
@@ -122,7 +128,9 @@
 >    
 > > --> 이렇게 하면 클래스 C도 2^10개 의 호스트를 가질 수 있게 된다. 그래서 각각 서브넷 1~4 해서 쓰면 된다.
 > > 
-
+  
+<br>
+  
 
 ## 6 - 5)	Datagram Forwarding
 > 크게 Destination-based forwarding과 Generalized forwarding 이 있다.
