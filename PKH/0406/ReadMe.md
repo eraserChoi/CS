@@ -18,7 +18,10 @@ ORACLE
 >  SET AUTOTRACE on  
 > select sum(1) from code;
 
-[##_Image|kage@EC8Do/btq1WJ3XNsm/gdFlGNfbBRTqnzA9LRG8C0/img.png|alignCenter|data-origin-width="0" data-origin-height="0" data-ke-mobilestyle="widthContent"|출처 :&nbsp;http://www.gurubee.net/lecture/4152||_##]
+<p align="center">
+    <img style="width:400px;" src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FEC8Do%2Fbtq1WJ3XNsm%2FgdFlGNfbBRTqnzA9LRG8C0%2Fimg.png"><br/>
+    출처 : http://www.gurubee.net/lecture/4152
+</p>
 
      AUTOTRACE뒤에 옵션을 줄 수 있는데 다음과 같다
 
@@ -40,7 +43,10 @@ ORACLE
 
 > select plan\_table\_output from table (dbms\_xplan.display('plan\_table',null,'all'));
 
-[##_Image|kage@dmmhTc/btq1WJQqEGJ/vsshKm7iQRnfQ4fVEKfXI1/img.png|alignCenter|data-origin-width="0" data-origin-height="0" data-ke-mobilestyle="widthContent"|질의문||_##][##_Image|kage@uImVJ/btq1YkCouwp/s5kuYRHbdUwWjxKkp2WZmk/img.png|alignCenter|data-origin-width="0" data-origin-height="0" width="860" height="NaN" data-ke-mobilestyle="widthContent"|출처 :&nbsp;http://wiki.gurubee.net/pages/viewpage.action?pageId=23429144||_##]
+<p align="center">
+    <img style="width:400px;" src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FdmmhTc%2Fbtq1WJQqEGJ%2FvsshKm7iQRnfQ4fVEKfXI1%2Fimg.png"><br/>
+    질의문
+</p>
 
     2) 캐싱된 커서의 실제 실행계획 출력 
 
@@ -52,7 +58,10 @@ ORACLE
 
 > SQL> select \* from table (dbms\_xplan.display\_cursor('sql\_id',child\_no,'format'));
 
-[##_Image|kage@ojNpQ/btq1XK2n2SX/5pGk0aaM5ZhEmQxLEuxqyk/img.png|alignCenter|data-origin-width="0" data-origin-height="0" data-ke-mobilestyle="widthContent"|||_##]
+<p align="center">
+    <img style="width:400px;" src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FuImVJ%2Fbtq1YkCouwp%2Fs5kuYRHbdUwWjxKkp2WZmk%2Fimg.png"><br/>
+    출처 : 출처 : http://wiki.gurubee.net/pages/viewpage.action?pageId=23429144
+</p>
 
 ## 2\. SQL 트레이스
 
@@ -60,7 +69,10 @@ ORACLE
 
    - Autotrace만으로 부하의 원인을 찾기 어려울 때 내부 수행 절차상 어느 단계에서 부하를 일으키는 지 확인 가능
 
-[##_Image|kage@9Qhn2/btq1V1RAmw8/o6kjIgHJ4Fu91AJbvTHVk0/img.png|alignCenter|data-origin-width="0" data-origin-height="0" data-ke-mobilestyle="widthContent"|출처 :&nbsp;http://wiki.gurubee.net/pages/viewpage.action?pageId=23429127||_##]
+<p align="center">
+    <img style="width:400px;" src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FojNpQ%2Fbtq1XK2n2SX%2F5pGk0aaM5ZhEmQxLEuxqyk%2Fimg.png"><br/>
+    출처 : http://wiki.gurubee.net/pages/viewpage.action?pageId=23429127
+</p>
 
    - Elapsed Time은 Call단위로 측정이 이루어짐 (CPU time + Wait Time = Response시정 - Call시점)
 
